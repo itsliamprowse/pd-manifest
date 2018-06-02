@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote  name="aosp"
-            review="https://android-review.googlesource.com/" />
+            fetch="https://android-review.googlesource.com/" />
   <default remote="github" 
            revision="master" 
            sync-j="4" />
